@@ -1,0 +1,24 @@
+/* Delmar Kirkland*/
+
+body
+{
+    /* Changing Background Color and Text Boldness*/
+    background-image: linear-gradient(rgb(255, 0, 0),rgb(255, 253, 253),blue);
+    font-weight: bold;
+
+}
+
+h1
+{
+    /* Centering The Text and Adding Color*/
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+}
+
+.buttonDK
+{
+    /* Making Button Slightly Bigger*/
+    height: 30px;
+    width: 75px;
+}
